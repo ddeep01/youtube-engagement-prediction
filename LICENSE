@@ -1,0 +1,80 @@
+Academic Free License v3.0
+
+This License is effective for use with educational projects.
+
+Copyright (c) 2025 YouTube Engagement Prediction Project - Educational Purpose
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Grant of Copyright License
+The licensor grants you a worldwide, royalty-free, non-exclusive, perpetual (for
+the duration of the applicable copyright) license to reproduce, prepare derivative
+works of, publicly display, publicly perform, and distribute this software and
+associated documentation files (the "Software").
+
+2. Grant of Patent License
+The licensor grants you a worldwide, royalty-free, non-exclusive, perpetual patent
+license to make, have made, use, offer to sell, sell, import, and otherwise
+transfer the Software.
+
+3. Restrictions
+You must preserve all copyright notices and patent notices.
+
+4. Educational Use Restrictions
+
+THIS PROJECT IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY.
+
+PERMITTED USES:
+- Learning and understanding machine learning concepts
+- Analyzing YouTube video engagement data for academic research
+- Portfolio development and showcasing skills
+- Classroom teaching and instruction
+- Academic research and experimentation
+
+PROHIBITED USES:
+- Commercial use or profiting from this software
+- Violating YouTube's Terms of Service
+- Scraping and storing private user data
+- Republishing without proper attribution
+- Using for any illegal purposes
+- Circumventing API rate limits or terms of service
+
+5. Disclaimer
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.
+
+6. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS". NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT, IS PROVIDED.
+
+7. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR CLAIMS, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+8. Compliance with APIs
+
+Users must comply with:
+- YouTube Data API Terms of Service
+- Google Cloud Platform Terms of Service
+- Applicable laws and regulations
+- Ethical data usage practices
+
+DISCLAIMER FOR EDUCATIONAL USE:
+This project is intended solely for educational purposes. Users are responsible
+for ensuring their use complies with all applicable laws, regulations, and terms
+of service, particularly YouTube's Terms of Service. The authors assume no
+responsibility for misuse of this software.

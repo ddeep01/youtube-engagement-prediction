@@ -1,0 +1,61 @@
+{
+    "model_type": "GradientBoostingRegressor",
+    "numeric_features": [
+        "total_videos",
+        "channel_age_days",
+        "duration_minutes",
+        "subscriber_count_log",
+        "title_length",
+        "title_words",
+        "title_exclamation",
+        "title_question",
+        "publish_hour_sin",
+        "publish_hour_cos",
+        "publish_dow_sin",
+        "publish_dow_cos",
+        "is_hd",
+        "category_te"
+    ],
+    "categorical_features": [
+        "category_id",
+        "captions_flag"
+    ],
+    "all_features": [
+        "category_id",
+        "captions_flag",
+        "total_videos",
+        "channel_age_days",
+        "duration_minutes",
+        "subscriber_count_log",
+        "title_length",
+        "title_words",
+        "title_exclamation",
+        "title_question",
+        "publish_hour_sin",
+        "publish_hour_cos",
+        "publish_dow_sin",
+        "publish_dow_cos",
+        "is_hd",
+        "category_te"
+    ],
+    "target": "engagement_rate_log",
+    "category_te_global_mean": 1.0347614024786558,
+    "best_params": {
+        "learning_rate": 0.03,
+        "max_depth": 4,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10,
+        "n_estimators": 300,
+        "subsample": 0.8
+    },
+    "test_metrics": {
+        "MAE": 0.15368399501638003,
+        "RMSE": 0.2106261546572283,
+        "R2": 0.2664102922927686
+    },
+    "train_metrics": {
+        "MAE": 0.1392486555919487,
+        "RMSE": 0.19095826739746943,
+        "R2": 0.383150256787936
+    }
+}
