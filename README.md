@@ -192,7 +192,6 @@ youtube-engagement-prediction/
 ├── ui/
 │   └── app.py                            # Streamlit web application
 │
-├── reports/                              # Analysis reports & visualizations
 │
 ├── .env.example                          # Template for API keys (SAFE TO COMMIT)
 ├── .env                                  # Your API keys (DO NOT COMMIT)
