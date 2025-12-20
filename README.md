@@ -1,4 +1,4 @@
-# 📊 YouTube Video Engagement Rate Prediction
+# 📊 YouTube Video Optimal Duration Prediction
 
 A machine learning project to predict YouTube video engagement rates and find optimal video durations using YouTube Data API and advanced ML algorithms including Gradient Boosting, CatBoost, XGBoost, and LightGBM.
 
