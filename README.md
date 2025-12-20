@@ -47,7 +47,7 @@ A machine learning project to predict YouTube video engagement rates and find op
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/youtube-engagement-prediction.git
+git clone https://github.com/ddeep01/youtube.git
 cd youtube-engagement-prediction
 ```
 
