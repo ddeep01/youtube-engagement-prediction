@@ -340,14 +340,6 @@ Make Predictions & Analyze
 
 ---
 
-## 📝 License
-
-This project is licensed under the **Academic Free License (AFL) 3.0** for **Educational Purposes Only**.
-
-See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍🎓 Educational Note
 
 **This project is designed for:**
