@@ -340,42 +340,6 @@ Make Predictions & Analyze
 
 ---
 
-## 🔧 Troubleshooting
-
-### API Key Issues
-
-**Error: "No YouTube API keys found"**
-- ✅ Make sure `.env` file exists in project root
-- ✅ Verify keys are added: `YOUTUBE_API_KEY=...` or `YOUTUBE_API_KEY_1=...`
-- ✅ Restart your terminal/Python after updating `.env`
-
-**Error: "quota exceeded"**
-- ✅ You've hit the API rate limit
-- ✅ Add more API keys to your `.env` file
-- ✅ Try again after a few hours
-
-### Streamlit UI Issues
-
-**Error: "module not found"**
-- ✅ Ensure all requirements are installed: `pip install -r requirements.txt`
-- ✅ Check you're in the correct virtual environment
-
-**Port 8501 already in use**
-- ✅ Run on a different port: `streamlit run app.py --server.port 8502`
-
----
-
-## 📚 Learning Resources
-
-- [YouTube Data API Documentation](https://developers.google.com/youtube/v3)
-- [Scikit-learn ML Documentation](https://scikit-learn.org/)
-- [XGBoost Guide](https://xgboost.readthedocs.io/)
-- [CatBoost Documentation](https://catboost.ai/)
-- [LightGBM Guide](https://lightgbm.readthedocs.io/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-
----
-
 ## 📝 License
 
 This project is licensed under the **Academic Free License (AFL) 3.0** for **Educational Purposes Only**.
